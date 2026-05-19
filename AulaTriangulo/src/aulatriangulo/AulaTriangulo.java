@@ -6,7 +6,7 @@ package aulatriangulo;
 
 /**
  *
- * @author glbra
+ * @author João Augusto MVS
  */
 public class AulaTriangulo {
 
